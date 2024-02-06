@@ -1,2 +1,2 @@
-# bismack_portfolio
+# portfolio
 Data Analysis Portfolio
