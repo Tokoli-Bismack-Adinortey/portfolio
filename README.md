@@ -1,2 +1,4 @@
-# portfolio
-Data Analysis Portfolio
+# Data Scientist
+
+### Education
+Bsc Statistics
